@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Game2048</string>
+
+    <!-- Common Strings -->
+    <string name="common_string_empty" />
+    <string name="common_string_2">2</string>
+    <string name="common_string_4">4</string>
+    <string name="common_string_8">8</string>
+    <string name="common_string_16">16</string>
+    <string name="common_string_32">32</string>
+    <string name="common_string_64">64</string>
+    <string name="common_string_128">128</string>
+    <string name="common_string_256">256</string>
+    <string name="common_string_512">512</string>
+    <string name="common_string_1024">1024</string>
+    <string name="common_string_2048">2048</string>
+    <string name="common_string_4096">4096</string>
+    <string name="common_string_game_size_4">4 x 4</string>
+    <string name="common_string_game_size_8">8 x 8</string>
+
+    <!-- New Game Dialog Strings -->
+    <string name="new_game_dialog_title">New Game</string>
+    <string name="new_game_dialog_name_text_field_label">Name</string>
+    <string name="new_game_dialog_name_text_field_error_label">Please enter the Name</string>
+    <string name="new_game_dialog_game_size_label">Size:</string>
+    <string name="new_game_dialog_game_size_error_label">Please select a game size</string>
+    <string name="new_game_dialog_winning_number_label">Winning Number:</string>
+    <string name="new_game_dialog_winning_number_error_label">Please select a winning number</string>
+    <string name="new_game_dialog_start_button_label">Start</string>
+
+    <!-- Game Area Screen Strings -->
+    <string name="game_area_screen_button_new">New</string>
+    <string name="game_area_screen_button_leaderboard">Leader Board</string>
+    <string name="game_area_screen_moves_placeholder">%1$s MOVES</string>
+    <string name="game_area_screen_highest_score_placeholder">Highest Score: %1$s</string>
+    <string name="game_area_screen_game_status_success">You have successfully finished the game. You can check Leader board for more details by clicking on Leader board button.To start a new game by clicking on New Button.</string>
+    <string name="game_area_screen_game_status_over">Game Over! To try again please click on New Button</string>
+
+</resources>
